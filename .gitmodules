@@ -1,0 +1,3 @@
+[submodule "SGA-front"]
+	path = SGA-front
+	url = https://github.com/BananaaScript/SGA-front
