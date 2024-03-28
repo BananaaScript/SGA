@@ -1,3 +1,6 @@
 [submodule "SGA-front"]
 	path = SGA-front
 	url = https://github.com/BananaaScript/SGA-front
+[submodule "SGA-back"]
+	path = SGA-back
+	url = https://github.com/BananaaScript/SGA-back
