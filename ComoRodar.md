@@ -7,7 +7,7 @@
 * [Links](#links)
 
 <a name="BaixandoArquivos"/><br/>
-## Baixando os arquivos do projeto
+## Baixando os arquivos
 - Copie este *link* ```https://github.com/BananaaScript/SGA.git``` do [repositório](https://github.com/BananaaScript/SGA) do projeto
 - Crie uma pasta na área de trabalho
 - Com a pasta aberta, selecione a barra de endereços da pasta, digite *cmd* e pressione *enter*
@@ -22,7 +22,8 @@ git submodule init
 ```
 git submodule update
 ```
-## Rodando o *Front-end* do projeto <a name="RodandoFront" />
+<a name="RodandoFront" /> <br/>
+## Rodando o *Front-end*
 AVISO: Nesta parte você **necessita** do [*Node.js*](https://nodejs.org/en/download/current) instalado e se desejar uma *IDE* para visualizar o código, no nosso caso utilizamos o [*Visual Studio Code*](https://code.visualstudio.com).
 - Acesse a pasta do *Front-end*: ```<PastaClonada>\SGA-front\sga ```
 - Acesse o *cmd* na pasta: ```<PastaClonada>\SGA-front\sga ```
@@ -37,7 +38,7 @@ npm start
 Se tudo foi feito corretamente o *cmd* vai exibir uma mensagem em verde *No issues found* e a aplicação será aberta no seu navegador.
 
  <a name="RodandoBack"/><br/>
-## Rodando o *Back-end* do projeto
+## Rodando o *Back-end*
 ### Banco de dados
 Primeiro vamos configurar o banco de dados, neste projeto utilizamos o [*MySQL*](https://dev.mysql.com/downloads/installer/).<br/>
 O instalador fornece instalações adicionais, portanto é importante se atentar na instalação do sistema gerenciador de banco de dados *MySQL Workbench* e se necessário alguma outra instalação para conexões.<br/>
