@@ -6,7 +6,8 @@
 * [Vídeo](#video)
 * [Links](#links)
 
-## Baixando os arquivos do projeto<a name="BaixandoArquivos"/>
+<a name="BaixandoArquivos"/><br/>
+## Baixando os arquivos do projeto
 - Copie este *link* ```https://github.com/BananaaScript/SGA.git``` do [repositório](https://github.com/BananaaScript/SGA) do projeto
 - Crie uma pasta na área de trabalho
 - Com a pasta aberta, selecione a barra de endereços da pasta, digite *cmd* e pressione *enter*
@@ -35,7 +36,8 @@ npm start
 ```
 Se tudo foi feito corretamente o *cmd* vai exibir uma mensagem em verde *No issues found* e a aplicação será aberta no seu navegador.
 
-## Rodando o *Back-end* do projeto <a name="RodandoBack"/>
+ <a name="RodandoBack"/><br/>
+## Rodando o *Back-end* do projeto
 ### Banco de dados
 Primeiro vamos configurar o banco de dados, neste projeto utilizamos o [*MySQL*](https://dev.mysql.com/downloads/installer/).<br/>
 O instalador fornece instalações adicionais, portanto é importante se atentar na instalação do sistema gerenciador de banco de dados *MySQL Workbench* e se necessário alguma outra instalação para conexões.<br/>
@@ -68,7 +70,8 @@ Se tudo foi feito corretamente o *spring* vai iniciar a aplicação, você pode 
 
 ## Conclusão
 Agora que tudo está rodando, nossa aplicação pode funcionar corretamente, a rota padrão para a página *web* é "*localhost:3000*", é importante que não pule as etapas e mantenha tudo que fez aberto, para a aplicação funcionar devidamente ela precisa tanto do "*front-end* quanto do *back-end*.
-### Vídeo<a name="video"/>
+<a name="video"/><br/>
+### Vídeo
 Para facilitar foi feito um vídeo de como rodar o projeto, caso o vídeo não esteja funcionando você pode ver no youtube: ([assistir](https://youtu.be/JU2ztloM7h0))<br/>
 
 
@@ -79,7 +82,8 @@ https://github.com/GaSiqueira/Testes/assets/125694331/17eaf0d4-2f4e-4a72-880b-79
 
 
 
-### Links <a name="links"/>
+<a name="links"/><br/>
+### Links
 Os *links* gerais das tecnologias e *IDE* que utilizamos podem ser conferidos aqui: <br/>
 <br/>[![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 <br/>[![](https://camo.githubusercontent.com/b0648ef7a9b6980ea27c1caaeb06d5c8503dbb4f9b4d9d7ca1df60a5edc14340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)](https://www.oracle.com/br/java/technologies/downloads/)
