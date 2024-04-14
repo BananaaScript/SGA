@@ -9,7 +9,7 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 ### :checkered_flag: Entregas das Sprints
 | Links | Período | Status |
 |:-----:|:----------:|:---------:|
-| <a href=''>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Em desenvolvimento :hourglass: |
+| <a href=''>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
 | <a href=''>Sprint 2 </a>| 15/04/2024 - 05/05/2024 | Em desenvolvimento :hourglass: |  
 | <a href=''>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
 | <a href=''>Sprint 4 | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
@@ -19,6 +19,20 @@ Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmen
 
 
 ## :dart: Backlog
+| Us | Requisitos (Funcionais e Não Funcionais) | User Stories |  Sprint | Dificuldade | Prioridade | 
+|:--:|:------------:|:-----------:|:----------:|:------:|:------------:|
+|  01  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, necessito poder adicionar categorias, modelos, ativos,  destinatarios e outros administradores | 01 | Baixa | Máxima |
+|  02  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, preciso poder editar e deletar qualquer categoria, modelo ou ativo já cadastrado, além de destinatarios e administradores. | 01 | Baixa | Máima |
+|  03  | RF02 | Eu como usuario, com privilegios de administrador,  além de adicionar e inserir dados aos ativos, poder visualizar de forma geral todos as categorias e modelos já cadastrados. | 01 | Baixa | Máxima |
+|  04  | RNF02 | Eu como usuario, desejo uma interface amigavel  e com facill navegação | 01 | Média | Alta |
+|  05  | RF02, RF03, RF04, RF05 | Eu como usuario, com privilegios de administrador,  desejo poder inserir e alterar dados como local, estado, reponsavel e data da manutenção agendada para cada ativo cadastrado. | 02 | Média/Alta | Máxima |
+|  06  | RF07 | Eu como usuario, que não possuo os privilegios de um administrador, desejo receber notificações sobre quais ativos estão necessitando de manutenção mais brevemente. | 02 | Média/Alta | Máxima |
+|  07  | RF03, RNF02 | Eu como usuario, que não possuo privilegios de administrador,  desejo poder analisar os ativos que possuo ao acessar o sistema | 02 | Média | Alta |
+|  08  | RF07 | Eu como usuário, com privilégios de administrador, desejo poder definir o período das notificações para a próxima data da manutenção. | 02 | Média | Alta |
+|  09  | RF05 | Eu como usuario, com privilégios de administrador,  desejo poder buscar um ativo individualmente por algum de seus dados, como localização, estado, responsavel, etc. | 03 | Média | Alta |
+|  10  | RF05 | Eu como usuário, com privilégios de administrador,  desejo poder analisar individualmente cada ativo já cadastrado. | 03 | Baixa | Média |
+|  11  | RF08 | Eu como usuario, com privilegios de administrador, desejo poder gerar relatorios sobre os ativos. | 04 | Média/Alta | Média |
+|  12  | RF08 | Eu como usuário, com privilégios de administrador, preciso de gráficos e tabelas que possuam índices quando gerar um relatório. | 04 | Média | Média |
 
 ## :desktop_computer: Tecnologias Utilizadas
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
