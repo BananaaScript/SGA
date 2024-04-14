@@ -1,10 +1,12 @@
-## :clipboard: Sobre o projeto <a name="topo"></a>
+# SPRINT 01<a name = 'topo'></a>
+> Projeto desenvolvido pela equipe <a href='https://github.com/BananaaScript' target="_blank">BananaScript</a>.
+# :scroll: Resumo do que foi feito nesa Sprint <a name="topo"></a>
 
-Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA), proporcionando à uma empresa uma plataforma eficaz de gerenciamento de ativos, com funcionalidades intuitivas, o SGA simplifica o processo de gerenciamento dos ativos, garantindo uma administração eficiente.
+### MVP (Minimum Viable Product):  Desenvolvimento das funcionalidades: adicionar, editar e deletar os ativos, modelos e categorias. Além de uma visualização geral por modelos e categorias.
 
-> _Projeto desenvolvido com metodologia ágil SCRUM._ <br/>
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ - Desenvolvimento da funcionalidades de adicionar, editar e deletar os ativos, modelos e categorias.
+ - Visualizar todos os modelos e categorias de forma única.
+ - Estruturalização do Projeto, incluindo telas em desenvolvimento.
 
 ### :checkered_flag: Entregas das Sprints
 | Links | Entregas de Valor / MVP (Minimum Viable Product) | Período | Status |
@@ -14,35 +16,43 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 | <a href=''>Sprint 3 </a> | Desenvolvimento de sistema de busca e analise de ativos de forma individual, incluindo busca por localização, responsável e data de manutenção | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
 | <a href=''>Sprint 4 | Desenvolvimento da interface de relatórios, incluindo gráficos e tabelas  | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
 
-### Como rodar o projeto :question:
-Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
+### :hourglass: Data de desenvolvimento da sprint
+|  25/03/2024 - 14/04/2024 | **<a href='https://github.com/BananaaScript/SGA' target="_blank">Visualizar entregas**</a> |
 
-### Requisitos do Sistema
-<img src="./Arquivos//Requisitos _ClienteYoutan.png" alt="Requisitos propostos pelo cliente">
+<hr/>
 
-## :dart: Backlog
-| Us | Requisitos (Funcionais e Não Funcionais) | User Stories |  Sprint | Dificuldade | Prioridade | 
-|:--:|:------------:|:-----------:|:----------:|:------:|:------------:|
-|  01  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, necessito poder adicionar categorias, modelos, ativos,  destinatarios e outros administradores | 01 | Baixa | Máxima |
-|  02  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, preciso poder editar e deletar qualquer categoria, modelo ou ativo já cadastrado, além de destinatarios e administradores. | 01 | Baixa | Máima |
-|  03  | RF02 | Eu como usuario, com privilegios de administrador,  além de adicionar e inserir dados aos ativos, poder visualizar de forma geral todos as categorias e modelos já cadastrados. | 01 | Baixa | Máxima |
-|  04  | RNF02 | Eu como usuario, desejo uma interface amigavel  e com facill navegação | 01 | Média | Alta |
-|  05  | RF02, RF03, RF04, RF05 | Eu como usuario, com privilegios de administrador,  desejo poder inserir e alterar dados como local, estado, reponsavel e data da manutenção agendada para cada ativo cadastrado. | 02 | Média/Alta | Máxima |
-|  06  | RF07 | Eu como usuario, que não possuo os privilegios de um administrador, desejo receber notificações sobre quais ativos estão necessitando de manutenção mais brevemente. | 02 | Média/Alta | Máxima |
-|  07  | RF03, RNF02 | Eu como usuario, que não possuo privilegios de administrador,  desejo poder analisar os ativos que possuo ao acessar o sistema | 02 | Média | Alta |
-|  08  | RF07 | Eu como usuário, com privilégios de administrador, desejo poder definir o período das notificações para a próxima data da manutenção. | 02 | Média | Alta |
-|  09  | RF05 | Eu como usuario, com privilégios de administrador,  desejo poder buscar um ativo individualmente por algum de seus dados, como localização, estado, responsavel, etc. | 03 | Média | Alta |
-|  10  | RF05 | Eu como usuário, com privilégios de administrador,  desejo poder analisar individualmente cada ativo já cadastrado. | 03 | Baixa | Média |
-|  11  | RF08 | Eu como usuario, com privilegios de administrador, desejo poder gerar relatorios sobre os ativos. | 04 | Média/Alta | Média |
-|  12  | RF08 | Eu como usuário, com privilégios de administrador, preciso de gráficos e tabelas que possuam índices quando gerar um relatório. | 04 | Média | Média |
+## Como rodar o projeto :question:
+  Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
+<br/>
 <br/>
 
-### Definição de DoR e DoD
-| DoR (Definition of Ready) | DoD (Definition of Done) |
-|:---:|:---:|
-|Desenvolver um Wireframe para facilitar a visualização e estilização do projeto durante o desenvolvimento. | Realizar com êxito aquilo que foi proposto na respectiva tarefa |
-| Elaborar UserStories objetivas, que descrevam de forma clara oque deve ser feito. | Aplicar uma serie de testes para verificar se não há falhas que atrapalhem a experiencia do usuario.
+## Backlog Da Sprint
+| Número | Atividade | Descrição | Sprint Points | Prioridade | Responsavel |  
+|:--:|:------------:|:-----------:|:----------:|:------:|:------------:|
+|  01  | (Frontend) Desenvolvimento/ Formatação das telas de Cadastro | Desenvolvimento da tela que possibilita o cadastro de novos: categorias, modelos e ativos.| 5 | Alta | Bruno Henrique |
+|  02  | (Frontend) Desenvolver barra de navegação lateral | Desenvolver e estilizar a barra lateral que permite a navegação entre as paginas do sistema. | 8 | Alta | Bruno Fernandes |
+|  03  | (Frontend) Desenvolver projeto react | Organizar arquivos, desenvolver sistema de navegações respeitando os principios de uma pagina Spa (Single Page Aplication). | 13 | Alta | Gabriel Henrique |
+|  04  | (Frontend) Desenvolver visualização completa das categorias e modelos | Desenvolver tabela de visualização de todos as categorias ou modelos já cadastrados. | 13 | Alta | Douglas Medeiros |
+|  05  | (Backend) Desenvolver sistema de cadastrar, editar e deletar de Ativos | Desenvolver o Crud(Create, Read, Update e Delete) dos dados cadastrados na tabela ativos do banco de dados. | 13 | Alta | Miguel Conde |
+|  06  | (Backend) Desenvolver sistema de cadastrar, editar e deletar de Categorias | Desenvolver o Crud(Create, Read, Update e Delete) dos dados cadastrados na tabela categorias do banco de dados.| 13 | Alta | Gabriel Henrique |
+|  07  | (Backend) Desenvolver sistema de cadastrar, editar e deletar de Modelos | Desenvolver o Crud(Create, Read, Update e Delete) dos dados cadastrados na tabela modelos do banco de dados.| 13 | Alta | Lucca Loyale |
+|  08  | (Frontend) Desenvolver tela home | Desenvolver a tela Home, mesmo que incompleta, que mostre os dados do usuario logado. | 8 | Média | Douglas Medeiros |
+|  09  | (Backend) Desenvolver sistema de banco de dados | Desenvolver o banco de dados MySQL com tabelas de ativos, modelos e categorias. | 5 | Média | Miguel Conde |
+|  10  | (Frontend) Desenvolver tela de login | Desenvolver apenas a parte visual do login. | 13 | Média | Kaue Riki |
+<br/>
 
+##  Burndown 
+### :open_book: Dicionário:
+**Dados:** O gráfico abaixo avalia as tasks(tarefas) por dias(Tempo): 
+<br>**Linha Azul**: Tasks Concluidas na Sprint
+<br>**Linha Vermelha**: Ideal de Tasks por Tempo
+### Burndown da Sprint (Formatado)
+<img src="./Arquivos/Burndown_Formatado_Sprint01.png" alt="Burndown Formatado">
+
+### Burndown da Sprint (Direto do Jira)
+<img src="./Arquivos/Burndown_Jira_Sprint01.png" alt="Burndown do Jira">
+
+<br/><br/>
 ## :desktop_computer: Tecnologias Utilizadas
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
