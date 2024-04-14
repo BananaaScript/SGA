@@ -53,7 +53,7 @@
 <img src="./Arquivos/Burndown_Jira_Sprint01.png" alt="Burndown do Jira">
 
 <br/><br/>
-## :desktop_computer: Tecnologias Utilizadas
+## :desktop_computer: Tecnologias Utilizadas nesta sprint
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
@@ -67,18 +67,8 @@
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 
-## :busts_in_silhouette: Equipe
-<a href="https://github.com/BananaaScript">BananaScript</a> é uma equipe de desenvolvimento de softwares, composta por estudantes cursando desenvolvimento de software multiplataforma na faculdade de tecnologia <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC de São José dos Campos</a>, formada para a resolução de projetos acadêmicos chamados API (Aprendizagem por projetos integrados) no qual propõe aos alunos projetos que auxiliam na entrada do mercado de trabalho.
-| Função | Nome | LinkedIn | Github |
-|:------:|:-----:|:----------:|:---------:|
-|Product Owner| Douglas Medeiros |<a href='https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/DouglasMedeiros1'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Scrum Master| Gustavo Borges  |<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/Miojoguu'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Bruno Henrique |<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/BrunoHenriique'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Kaue Riki |<a href='https://www.linkedin.com/in/kau%C3%AA-riki-70b518273/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/kaueriki'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Lucca Vilela |<a href='https://www.linkedin.com/in/lucca-vilela-b90730232/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/luccavilela'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Bruno Fernandes |<a href='https://www.linkedin.com/in/bruno-campos-97560b231/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/BrunoFerCam'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Gabriel Henrique Siqueira |<a href='https://www.linkedin.com/in/gabriel-siqueira-54b535279/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/GaSiqueira'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Miguel Conde |<a href='https://www.linkedin.com/in/miguel-conde-santos-a67313271/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/miguelcondesantos'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
+## Demonstração da entrega
+Foi gravado uma demonstração da entrega desta sprint, você pode conferir no [*youtube*](https://www.youtube.com/watch?v=001gbu85vyI) da equipe.
 
 
-| :arrow_up: [Voltar ao topo](#topo) |
+| :arrow_up: [Voltar ao topo](#topo) | ⬅️ [Voltar para página principal](https://github.com/BananaaScript/SGA)
