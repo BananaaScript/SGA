@@ -7,12 +7,12 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ### :checkered_flag: Entregas das Sprints
-| Links | Período | Status |
-|:-----:|:----------:|:---------:|
-| <a href=''>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
-| <a href=''>Sprint 2 </a>| 15/04/2024 - 05/05/2024 | Em desenvolvimento :hourglass: |  
-| <a href=''>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
-| <a href=''>Sprint 4 | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
+| Links | Entregas de Valor / MVP (Minimum Viable Product) | Período | Status |
+|:-----:|:------------------:|:---------:|:--------:|
+| <a href=''>Sprint 1 </a> | Desenvolvimento das funcionalidades: adicionar, editar e deletar os ativos, modelos e categorias. Além de uma visualização geral por modelos e categorias. | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
+| <a href=''>Sprint 2 </a> | Desenvolvimento da interface e sistema de notificações, incluindo inserção de dados de manutenções como estado, responsável, entre outros. | 15/04/2024 - 05/05/2024 | Em desenvolvimento :hourglass: |  
+| <a href=''>Sprint 3 </a> | Desenvolvimento de sistema de busca e analise de ativos de forma individual, incluindo busca por localização, responsável e data de manutenção | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
+| <a href=''>Sprint 4 | Desenvolvimento da interface de relatórios, incluindo gráficos e tabelas  | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
 
 ### Como rodar o projeto :question:
 Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
