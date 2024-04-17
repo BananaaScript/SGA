@@ -9,7 +9,7 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 ### :checkered_flag: Entregas das Sprints
 | Links | Período | Status |
 |:-----:|:----------:|:---------:|
-| <a href=''>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
+| <a href='https://github.com/BananaaScript/SGA/tree/Sprint_01'>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
 | <a href=''>Sprint 2 </a>| 15/04/2024 - 05/05/2024 | Em desenvolvimento :hourglass: |  
 | <a href=''>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
 | <a href=''>Sprint 4 | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
