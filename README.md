@@ -18,7 +18,7 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
 
 ### Requisitos do Sistema
-<img src="./Arquivos//Requisitos _ClienteYoutan.png" alt="Requisitos propostos pelo cliente">
+![](https://github.com/BananaaScript/SGA/blob/main/Doc/Requisitos%20_ClienteYoutan.png)
 
 ## :dart: Backlog
 | Us | Requisitos (Funcionais e Não Funcionais) | User Stories |  Sprint | Dificuldade | Prioridade | 
