@@ -41,22 +41,22 @@ Se tudo foi feito corretamente o *cmd* vai exibir uma mensagem em verde *No issu
 ## Rodando o *Back-end*
 ### Banco de dados
 Primeiro vamos configurar o banco de dados, neste projeto utilizamos o [*MySQL*](https://dev.mysql.com/downloads/installer/).<br/>
-O instalador fornece instalações adicionais, portanto é importante se atentar na instalação do sistema gerenciador de banco de dados *MySQL Workbench* e se necessário alguma outra instalação para conexões.<br/>
+O instalador fornece instalações adicionais, portanto é importante se atentar na instalação do sistema gerenciador de banco de dados *MySQL Workbench* e se necessário alguma outra instalação para conexões.<br/> 
 Após instalar o *MySQL* e o *MySQL Workbench*, prossiga os seguintes passos:
-- Abra a barra de pesquisa do *Windows* e digite "Serviços", procure o serviço do *MySQL* e inicie ![image](https://github.com/GaSiqueira/Testes/assets/125694331/da08f082-bb79-4331-8b1e-f94995ad11b3)
-- Abra o *MySQL Workbench*, e crie uma conexão caso não tenha uma **(lembre da senha já que vamos precisar!)**![image](https://github.com/GaSiqueira/Testes/assets/125694331/b3b125e8-5138-46c6-9e62-b8b6c9709cc6)
+- Abra a barra de pesquisa do *Windows* e digite "Serviços", procure o serviço do *MySQL* e inicie ![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/servicoMysql.png)
+- Abra o *MySQL Workbench*, e crie uma conexão caso não tenha uma **(lembre da senha já que vamos precisar!)**![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/mysqlConexoes.png)
 
 - Abra o arquivo do banco de dados que está localizado na pasta: ```<PastaClonada>\SGA-back``` 
-- Aplique o arquivo clicando no "*raiozinho*" na parte superior <br/> ![image](https://github.com/GaSiqueira/Testes/assets/125694331/a2c42c4e-a569-4144-b772-3f035ac88547)
+- Aplique o arquivo clicando no "*raiozinho*" na parte superior <br/> ![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/MySQLrodar.png)
 ### Microsserviço
 Agora que nosso banco de dados está criado, vamos rodar nossa aplicação de microsserviços<br/>
 AVISO: É importante que você não feche a conexão ou o serviço do *MySQL*
 - Abra a pasta: ```<PastaClonada>\SGA-back```
 - A pasta chamada "*SGA*" é a nossa aplicação, para rodar precisamos ter a versão 17 ou superior do [*Java*](https://www.oracle.com/br/java/technologies/downloads/)
 - Depois de instalar o *Java* vamos precisar de uma *IDE*, neste exemplo vamos utilizar o [*Eclipse*](https://eclipseide.org)
-- Abra o *Eclipse* e monte o projeto localizado em: ```<PastaClonada>\SGA-back\SGA``` <br/> ![image](https://github.com/GaSiqueira/Testes/assets/125694331/1844f355-ece3-4e65-8559-3fea4ac68462)
+- Abra o *Eclipse* e monte o projeto localizado em: ```<PastaClonada>\SGA-back\SGA``` <br/> ![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/abrirProjetoEclipse.png)
 - Aguarde a *IDE* montar o projeto
-- Abra os arquivos destacados: <br/>![image](https://github.com/GaSiqueira/Testes/assets/125694331/797592da-b2bd-4746-9314-e8bc8702d9af)
+- Abra os arquivos destacados: <br/>![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/destaqueArquivos.png)
 - Vamos editar arquivo "*application.properties*"
 - Coloque seu *username* e *password* que configurou na conexão do banco de dados
 ```
@@ -66,23 +66,14 @@ spring.datasource.username=UsernameDaSuaConexão
 spring.datasource.password=SenhaDaSuaConexão
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 ```
-- Após configurar o arquivo de conexão abra o arquivo "*SgaApplication.java*" e rode a aplicação <br/> ![image](https://github.com/GaSiqueira/Testes/assets/125694331/e647a246-2a0c-4c12-9e26-6f37402b1ab9) <br/>
+- Após configurar o arquivo de conexão abra o arquivo "*SgaApplication.java*" e rode a aplicação <br/> ![image](https://github.com/BananaaScript/SGA/blob/main/Doc/Imgs/Sprint1/arquivosJava.png) <br/>
 Se tudo foi feito corretamente o *spring* vai iniciar a aplicação, você pode verificar se a aplicação está funcionando colocando a seguinte rota no seu navegador: "http://localhost:8080" que vai ser mostrado uma mensagem
 
 ## Conclusão
 Agora que tudo está rodando, nossa aplicação pode funcionar corretamente, a rota padrão para a página *web* é "*localhost:3000*", é importante que não pule as etapas e mantenha tudo que fez aberto, para a aplicação funcionar devidamente ela precisa tanto do "*front-end* quanto do *back-end*.
 <a name="video"/><br/>
 ### Vídeo
-Para facilitar foi feito um vídeo de como rodar o projeto, caso o vídeo não esteja funcionando você pode ver no youtube: ([assistir](https://youtu.be/JU2ztloM7h0))<br/>
-
-
-
-
-https://github.com/GaSiqueira/Testes/assets/125694331/17eaf0d4-2f4e-4a72-880b-795831d94b24
-
-
-
-
+Para facilitar foi feito um vídeo de como rodar o projeto, você pode conferir no youtube: ([assistir](https://youtu.be/JU2ztloM7h0))<br/>
 <a name="links"/><br/>
 ### Links
 Os *links* gerais das tecnologias e *IDE* que utilizamos podem ser conferidos aqui: <br/>
