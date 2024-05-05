@@ -51,7 +51,7 @@
 <br>**Linha Azul**: Tasks Concluidas na Sprint
 <br>**Linha Vermelha**: Ideal de Tasks por Tempo
 ### Burndown da Sprint 
-<img src="./Arquivos/Burndown_Zube_Sprint02.png" alt="Burndown da Sprint">
+<img src="./Doc/Burndown_Zube_Sprint02.png" alt="Burndown da Sprint">
 
 
 <br/><br/>
