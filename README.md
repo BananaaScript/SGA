@@ -11,7 +11,7 @@ Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA
 |:-----:|:----------:|:---------:|
 | <a href='https://github.com/BananaaScript/SGA/tree/Sprint_01'>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
 | <a href='https://github.com/BananaaScript/SGA/tree/Sprint_02'>Sprint 2 </a>| 15/04/2024 - 05/05/2024 | Entregue :heavy_check_mark: |  
-| <a href=''>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
+| <a href='https://github.com/BananaaScript/SGA/tree/Sprint_03'>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Entregue :heavy_check_mark: | 
 | <a href=''>Sprint 4 | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
 
 ### Como rodar o projeto :question:
@@ -61,9 +61,9 @@ Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmen
 <a href="https://github.com/BananaaScript">BananaScript</a> é uma equipe de desenvolvimento de softwares, composta por estudantes cursando desenvolvimento de software multiplataforma na faculdade de tecnologia <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC de São José dos Campos</a>, formada para a resolução de projetos acadêmicos chamados API (Aprendizagem por projetos integrados) no qual propõe aos alunos projetos que auxiliam na entrada do mercado de trabalho.
 | Função | Nome | LinkedIn | Github |
 |:------:|:-----:|:----------:|:---------:|
-|Product Owner| Douglas Medeiros |<a href='https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/DouglasMedeiros1'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
+|Product Owner| Bruno Henrique |<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/BrunoHenriique'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 |Scrum Master| Gustavo Borges  |<a href='https://www.linkedin.com/in/gustavo-borges-lima-855440243/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/Miojoguu'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Bruno Henrique |<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/BrunoHenriique'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
+|Dev Team| Douglas Medeiros |<a href='https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/DouglasMedeiros1'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 |Dev Team| Kaue Riki |<a href='https://www.linkedin.com/in/kau%C3%AA-riki-70b518273/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/kaueriki'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 |Dev Team| Lucca Vilela |<a href='https://www.linkedin.com/in/lucca-vilela-b90730232/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/luccavilela'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 |Dev Team| Bruno Fernandes |<a href='https://www.linkedin.com/in/bruno-campos-97560b231/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/BrunoFerCam'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
