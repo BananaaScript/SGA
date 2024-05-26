@@ -1,74 +1,68 @@
-## :clipboard: Sobre o projeto <a name="topo"></a>
+# SPRINT 03<a name = 'topo'></a>
+> Projeto desenvolvido pela equipe <a href='https://github.com/BananaaScript' target="_blank">BananaScript</a>.
+# :scroll: Resumo do que foi feito nessa Sprint <a name="topo"></a>
 
-Este projeto tem como objetivo desenvolver um sistema gerenciador de ativos (SGA), proporcionando à uma empresa uma plataforma eficaz de gerenciamento de ativos, com funcionalidades intuitivas, o SGA simplifica o processo de gerenciamento dos ativos, garantindo uma administração eficiente.
+### MVP (Minimum Viable Product):  Monitoramento do ativo, sendo possível ter controle do ativo, ele estando dentro ou fora da empresa.
 
-> _Projeto desenvolvido com metodologia ágil SCRUM._ <br/>
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+ - Desenvolvimento de funcionaliades relacionadas a localização, ao estado fisico, a data das próximas manutenções e ao responsavel pelo ativo.
+ - Desenvolvimento das funcionalidade de Adicionar e Editar usuários no sistema.
+ - Desenvolvimento de alguns Gráficos para os relatórios.
 
 ### :checkered_flag: Entregas das Sprints
-| Links | Período | Status |
-|:-----:|:----------:|:---------:|
-| <a href='https://github.com/BananaaScript/SGA/tree/Sprint_01'>Sprint 1 </a> | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
-| <a href='https://github.com/BananaaScript/SGA/tree/Sprint_02'>Sprint 2 </a>| 15/04/2024 - 05/05/2024 | Entregue :heavy_check_mark: |  
-| <a href=''>Sprint 3 </a> | 06/05/2024 - 26/05/2024 | Em desenvolvimento :hourglass: | 
-| <a href=''>Sprint 4 | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
+| Links | Entregas de Valor / MVP (Minimum Viable Product) | Período | Status |
+|:-----:|:------------------:|:---------:|:--------:|
+| <a href=''>Sprint 1 </a> | Desenvolvimento das funcionalidades: adicionar, editar e deletar os ativos, modelos e categorias. Além de uma visualização geral por modelos e categorias. | 25/03/2024 - 14/04/2024 | Entregue :heavy_check_mark: |
+| <a href=''>Sprint 2 </a> | Desenvolvimento da interface e sistema de notificações, incluindo inserção de dados de manutenções como estado, responsável, entre outros. | 15/04/2024 - 05/05/2024 | Entregue :heavy_check_mark: |  
+| <a href=''>Sprint 3 </a> | Desenvolvimento de sistema monitoramento de ativos de forma individual, incluindo busca por localização, responsável e data de manutenção | 06/05/2024 - 26/05/2024 | Entregue :heavy_check_mark: | 
+| <a href=''>Sprint 4 | Desenvolvimento da interface de relatórios, incluindo gráficos e tabelas | 27/05/2024 - 16/06/2024 | Em desenvolvimento :hourglass: |
 
-### Como rodar o projeto :question:
-Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
+### :hourglass: Data de desenvolvimento da sprint
+| 06/05/2024 - 26/05/2024 | **<a href='https://github.com/BananaaScript/SGA' target="_blank">Visualizar entregas**</a> |
 
-### Requisitos do Sistema
-![](https://github.com/BananaaScript/SGA/blob/main/Doc/Requisitos%20_ClienteYoutan.png)
+<hr/>
 
-## :dart: Backlog
-| Us | Requisitos (Funcionais e Não Funcionais) | User Stories |  Sprint | Dificuldade | Prioridade | 
-|:--:|:------------:|:-----------:|:----------:|:------:|:------------:|
-|  01  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, necessito poder adicionar categorias, modelos, ativos,  destinatarios e outros administradores | 01 | Baixa | Alta |
-|  02  | RF01, RF02, RF03 | Eu como usuario, com privilegios de administrador, preciso poder editar e deletar qualquer categoria, modelo ou ativo já cadastrado, além de destinatarios e administradores. | 01 | Baixa | Alta |
-|  03  | RF02 | Eu como usuario, com privilegios de administrador,  além de adicionar e inserir dados aos ativos, poder visualizar de forma geral todos as categorias e modelos já cadastrados. | 01 | Baixa | Alta |
-|  04  | RNF02 | Eu como usuario, desejo uma interface amigavel  e com facill navegação | 01 | Média | Média |
-|  05  | RF02, RF03, RF04, RF05 | Eu como usuario, com privilegios de administrador,  desejo poder inserir e alterar dados como local, estado, reponsavel e data da manutenção agendada para cada ativo cadastrado. | 02 | Média/Alta | Média |
-|  06  | RF07 | Eu como usuario, que não possuo os privilegios de um administrador, desejo receber notificações sobre quais ativos estão necessitando de manutenção mais brevemente. | 02 | Média/Alta | Média |
-|  07  | RF03, RNF02 | Eu como usuario, que não possuo privilegios de administrador,  desejo poder analisar os ativos que possuo ao acessar o sistema | 02 | Média | Média |
-|  08  | RF07 | Eu como usuário, com privilégios de administrador, desejo poder definir o período das notificações para a próxima data da manutenção. | 02 | Média | Média |
-|  09  | RF05 | Eu como usuario, com privilégios de administrador,  desejo poder buscar um ativo individualmente por algum de seus dados, como localização, estado, responsavel, etc. | 03 | Média | Média |
-|  10  | RF05 | Eu como usuário, com privilégios de administrador,  desejo poder analisar individualmente cada ativo já cadastrado. | 03 | Baixa | Baixa |
-|  11  | RF08 | Eu como usuario, com privilegios de administrador, desejo poder gerar relatorios sobre os ativos. | 04 | Média/Alta | Baixa |
-|  12  | RF08 | Eu como usuário, com privilégios de administrador, preciso de gráficos e tabelas que possuam índices quando gerar um relatório. | 04 | Média | Baixa |
+## Como rodar o projeto :question:
+  Como ainda não foi feito o *deploy*, é necessário que rode o projeto localmente na sua máquina, você pode conferir os passos para rodar [aqui](https://github.com/BananaaScript/SGA/blob/main/ComoRodar.md).
+<br/>
 <br/>
 
-### Definição de DoR e DoD
-| DoR (Definition of Ready) | DoD (Definition of Done) |
-|:---:|:---:|
-|Desenvolver um Wireframe para facilitar a visualização e estilização do projeto durante o desenvolvimento. | Realizar com êxito aquilo que foi proposto na respectiva tarefa |
-| Elaborar UserStories objetivas, que descrevam de forma clara oque deve ser feito. | Aplicar uma serie de testes para verificar se não há falhas que atrapalhem a experiencia do usuario.
+## Backlog Da Sprint
+| Número | Atividade | Descrição | Sprint Points | Prioridade | Responsavel |  
+|:--:|:------------:|:-----------:|:----------:|:------:|:------------:|
+|  01  | (Frontend) Desenvover sistemas de busca de ativos por caracteristicas | Desenvolver sistema de busca por nome ou área(Coluna) referente a pagina. | 6 | Alta | Bruno Fernandes |
+|  02  | (Frontend) Correção de erros do Sistema | Corrigir erros ou falta de funcionalidades que o sistema apresenta | 14 | Alta | Douglas Medeiros |
+|  03  | (Backend) ativo indisponível quando entrar em manutenção | Desenvolver um sistema que mostre quando o ativo entrar em manutenção ele fique indisponível no sistema para ser atribuído para alguém CASO ele esteja disponível. | 6 | Alta | Gabriel Siqueira |
+|  04  | (Frontend) Estado do Ativo | Exibir o estado do ativo quando ele for pesquisado de forma individual. | 2 | Alta | Kaue Riki |
+|  05  | (Backend) Desenvolvimento de sistemas que calculem os dados para torna-los relatorios | Desenvolver um sistema que calcule a soma de todos os ativos, o total de seus valores (Somados) e uma porcentagem do quanto subiu ou desceu seu valor monetário. | 16 | Média | Lucca Loyale |
+|  06  | (Frontend) Desenvolver sistema de filtros nas telas de relatório | Alterar os campos da barra superior das telas de navegação, ou seja, adicionar as opções de visualizar relatórios de categorias e modelos. Após isso desenvolver um select com TODAS as categorias ou modelos para gerar um relatório sobre. | 8 | Média | Douglas Medeiros |
+|  07  | (Frontend) Filtrar dados da pagina home por usuario logado | Alterar a tabela da tela home e os dados do usuario por usuario Logado | 8 | Média | Miguel Conde |
+|  08  | (Frontend) Desenvolver gráficos de relatorios | Desenvolver tela com dashboards e gráficos que apresentem os ativos de um determinado modelo ou categoria. | 16 | Média | Kaue Riki |
+|  09  | (Frontend) Alterar o layout de todas as tabelas do sistema | Alterar o css/ Layout das tabelas do sistema e implementa-los em todas as paginas que possuem tabelas. De preferencia criar um layout semelhante a uma lista que, ao ser clicado, abre uma aba com mais dados sobre o item clicado. | 5 | Baixa | Kaue Riki |
+|  10  | (Backend) Aprimoramento do sistema de envio do email | A partir do dia em que uma notificação alterar seu estado (Atrasado, em 3 dias ou em 15 dias) enviar um email ao usuario responsavel que avise-o que há ativos em sua posse que precisaam/ Precisarão de manutenção. | 14 | Baixa | Gabriel Siqueira |
 
-## :desktop_computer: Tecnologias Utilizadas
+<br/>
+
+##  Burndown 
+### :open_book: Dicionário:
+**Dados:** O gráfico abaixo avalia as tasks (Tarefas) por dias (Tempo): 
+<br>**Linha Azul**: Tasks Concluidas na Sprint
+<br>**Linha Vermelha**: Ideal de Tasks por Tempo
+### Burndown da Sprint 
+<img src="./Doc/Burndown_Sprint03.png" alt="Burndown da Sprint">
+
+
+<br/><br/>
+## :desktop_computer: Tecnologias Utilizadas nesta sprint
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)]()
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![](https://camo.githubusercontent.com/b0648ef7a9b6980ea27c1caaeb06d5c8503dbb4f9b4d9d7ca1df60a5edc14340/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)]()
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
 [![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 
-## :busts_in_silhouette: Equipe
-<a href="https://github.com/BananaaScript">BananaScript</a> é uma equipe de desenvolvimento de softwares, composta por estudantes cursando desenvolvimento de software multiplataforma na faculdade de tecnologia <a href='https://fatecsjc-prd.azurewebsites.net/'>FATEC de São José dos Campos</a>, formada para a resolução de projetos acadêmicos chamados API (Aprendizagem por projetos integrados) no qual propõe aos alunos projetos que auxiliam na entrada do mercado de trabalho.
-| Função | Nome | LinkedIn | Github |
-|:------:|:-----:|:----------:|:---------:|
-|Product Owner| Douglas Medeiros |<a href='https://www.linkedin.com/in/douglas-ferrini-medeiros-02b735270'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/DouglasMedeiros1'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Scrum Master| Gustavo Borges  |<a href='https://www.linkedin.com/in/gustavo-borges-lima-855440243/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/Miojoguu'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Bruno Henrique |<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/BrunoHenriique'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Kaue Riki |<a href='https://www.linkedin.com/in/kau%C3%AA-riki-70b518273/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/kaueriki'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Lucca Vilela |<a href='https://www.linkedin.com/in/lucca-vilela-b90730232/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/luccavilela'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Bruno Fernandes |<a href='https://www.linkedin.com/in/bruno-campos-97560b231/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://www.github.com/BrunoFerCam'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Gabriel Henrique Siqueira |<a href='https://www.linkedin.com/in/gabriel-siqueira-54b535279/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/GaSiqueira'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
-|Dev Team| Miguel Conde |<a href='https://www.linkedin.com/in/miguel-conde-santos-a67313271/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>|<a href='https://github.com/miguelcondesantos'> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></a>
 
-
-| :arrow_up: [Voltar ao topo](#topo) |
+| :arrow_up: [Voltar ao topo](#topo) | ⬅️ [Voltar para página principal](https://github.com/BananaaScript/SGA)
